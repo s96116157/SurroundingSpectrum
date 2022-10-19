@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100"
+   height="100"
+   viewBox="0 0 26.45833 26.45833"
+   version="1.1"
+   id="svg8301"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   sodipodi:docname="Taipei.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8303"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.3977214"
+     inkscape:cx="211.77325"
+     inkscape:cy="108.03297"
+     inkscape:window-width="1512"
+     inkscape:window-height="836"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs8298" />
+  <g
+     inkscape:label="圖層 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="display:inline;fill:none;fill-opacity:0.195531;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 13.586781,5.717047 -5.6468878,4.88121 -0.28712,2.29704 2.2970266,0.57425 0.4785512,3.54128 -1.4356408,0.38283 0.66997,2.20133 1.4356408,-1.05281 2.96701,3.8284 3.44556,0.0957 -1.24423,-1.81849 v -2.00991 l 2.77559,-0.57426 -1.72278,-1.33994 0.57426,-3.25413 -1.72278,-1.53136 0.66997,-1.33994 -1.14852,-1.24423 -0.57426,-2.77559 z"
+       id="path7874"
+       inkscape:label="Taipei" />
+  </g>
+</svg>
