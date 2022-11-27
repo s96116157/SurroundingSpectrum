@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   fill="currentColor"
+   class="bi bi-play-circle-fill"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg184"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs188">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter6662"
+       x="-0.1"
+       y="-0.60000002"
+       width="1.2"
+       height="2.2">
+      <feGaussianBlur
+         stdDeviation="0.5"
+         result="blur"
+         id="feGaussianBlur6654" />
+      <feComposite
+         in="SourceGraphic"
+         in2="blur"
+         operator="atop"
+         result="composite1"
+         id="feComposite6656" />
+      <feComposite
+         in2="composite1"
+         operator="in"
+         result="composite2"
+         id="feComposite6658" />
+      <feComposite
+         in2="composite2"
+         operator="in"
+         result="composite3"
+         id="feComposite6660" />
+    </filter>
+  </defs>
+  <path
+     d="m 20,11.999106 a 8,8 0 1 1 -15.9999999,0 8,8 0 0 1 15.9999999,0 z M 10.79,9.0921056 a 0.5,0.5 0 0 0 -0.7900001,0.407 v 5.0000004 a 0.5,0.5 0 0 0 0.7900001,0.407 l 3.5,-2.5 a 0.5,0.5 0 0 0 0,-0.814 z"
+     id="path182"
+     style="fill:#c80000;fill-opacity:1" />
+  <ellipse
+     style="opacity:0.75;fill:#191919;fill-opacity:1;stroke-width:0.117165;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter6662);stop-color:#000000"
+     id="path3206"
+     cx="12"
+     cy="21.700001"
+     rx="6"
+     ry="1" />
+</svg>
