@@ -1,0 +1,47 @@
+[
+    {
+        "name": [
+            "路人",
+            "FamilyMart"
+        ],
+        "story": [
+            "話しことこちらです",
+            "Test Text Infortion..."
+        ],
+        "location": [
+            35.00270,
+            135.73131
+        ],
+        "flag": 0
+    },
+    {
+        "name": [
+            "路邊大叔",
+            "FamilyMart"
+        ],
+        "story": [
+            "話しことこちらです",
+            "Test Text Infortion..."
+        ],
+        "location": [
+            35.00247,
+            135.73233
+        ],
+        "flag": 0
+    },
+    {
+        "name": [
+            "阿伯",
+            "FamilyMart"
+        ],
+        "story": [
+            "話しことこちらです",
+            "Test Text Infortion..."
+        ],
+        "location": [
+            35.00423,
+            135.73169
+        ],
+        "flag": 0
+    }
+]
