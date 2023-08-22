@@ -1,6 +1,15 @@
 {
     "marker": [
         {
+            "name": "京都散策",
+            "location": [
+                35.00283, 
+                135.73162
+            ],
+            "address": "松井通",
+            "image": "Yuayin_001.mp3"
+        },
+        {
             "name": "禪音繚繞的錄音帶",
             "location": [
                 22.62105,
