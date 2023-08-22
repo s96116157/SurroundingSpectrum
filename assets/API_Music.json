@@ -71,6 +71,213 @@
             ],
             "address": "濱海路一段622號",
             "image": "Wanhua_001.mp3"
+        },
+        {
+            "name": "淹水",
+            "location": [
+                22.7983,
+                120.29109
+            ],
+            "address": "公園路40號",
+            "image": "Wanhua_002.mp3"
+        },
+        {
+            "name": "岡山大空襲",
+            "location": [
+                22.78444,
+                120.28116
+            ],
+            "address": "介壽西路69號",
+            "image": "Wanhua_002.mp3"
+        },
+        {
+            "name": "岡山水塔",
+            "location": [
+                22.79749,
+                120.29555
+            ],
+            "address": "岡山路450號",
+            "image": "Wanhua_002.mp3"
+        },
+        {
+            "name": "烤蕃薯",
+            "location": [
+                22.78202,
+                120.28566
+            ],
+            "address": "國軒路",
+            "image": "Wanhua_002.mp3"
+        },
+        {
+            "name": "岡山舊火車站",
+            "location": [
+                22.79216,
+                120.29936
+            ],
+            "address": "中山南路",
+            "image": "Wanhua_002.mp3"
+        },
+        {
+            "name": "甘蔗田",
+            "location": [
+                22.78202,
+                120.29466
+            ],
+            "address": "國軒路",
+            "image": "Wanhua_002.mp3"
+        },
+        {
+            "name": "說書人",
+            "location": [
+                22.79646,
+                120.29147
+            ],
+            "address": "岡山公園",
+            "image": "Wanhua_002.mp3"
+        },
+        {
+            "name": "撿彈殼",
+            "location": [
+                22.78389,
+                120.27898
+            ],
+            "address": "介壽西路321巷1弄",
+            "image": "Wanhua_002.mp3"
+        },
+        {
+            "name": "童年戲水",
+            "location": [
+                22.78142,
+                120.28313
+            ],
+            "address": "清水路",
+            "image": "Wanhua_002.mp3"
+        },
+        {
+            "name": "豆瓣醬",
+            "location": [
+                22.78564,
+                120.29549
+            ],
+            "address": "河堤路二段",
+            "image": "Wanhua_002.mp3"
+        },
+        {
+            "name": "飛官的母親",
+            "location": [
+                22.78543,
+                120.28244
+            ],
+            "address": "後協路94號",
+            "image": "Wanhua_002.mp3"
+        },
+        {
+            "name": "軍刀鍋",
+            "location": [
+                22.78896,
+                120.28927
+            ],
+            "address": "健鷹村",
+            "image": "Wanhua_002.mp3"
+        },
+        {
+            "name": "燒煤炭",
+            "location": [
+                22.78811,
+                120.29433
+            ],
+            "address": "筧橋路",
+            "image": "Wanhua_002.mp3"
+        },
+        {
+            "name": "鎖螺絲",
+            "location": [
+                22.79161,
+                120.28752
+            ],
+            "address": "正言街",
+            "image": "Wanhua_002.mp3"
+        },
+        {
+            "name": "螺絲工廠",
+            "location": [
+                22.79676,
+                120.29903
+            ],
+            "address": "中山北路126巷",
+            "image": "Wanhua_002.mp3"
+        },
+        {
+            "name": "蜜蜂",
+            "location": [
+                22.78165,
+                120.2983
+            ],
+            "address": "岡山南路22號",
+            "image": "Wanhua_002.mp3"
+        },
+        {
+            "name": "山羊",
+            "location": [
+                22.79044,
+                120.28819
+            ],
+            "address": "仁壽路126號",
+            "image": "Wanhua_002.mp3"
+        },
+        {
+            "name": "燒柴火",
+            "location": [
+                22.78875,
+                120.29041
+            ],
+            "address": "阿公店路二段",
+            "image": "Wanhua_002.mp3"
+        },
+        {
+            "name": "軍機飛過",
+            "location": [
+                22.78312,
+                120.2737
+            ],
+            "address": "介壽西路",
+            "image": "Wanhua_002.mp3"
+        },
+        {
+            "name": "手搖警報器",
+            "location": [
+                22.78355,
+                120.28444
+            ],
+            "address": "仁壽路",
+            "image": "Wanhua_002.mp3"
+        },
+        {
+            "name": "蒸氣火車",
+            "location": [
+                22.78236,
+                120.30126
+            ],
+            "address": "大遼路",
+            "image": "Wanhua_002.mp3"
+        },
+        {
+            "name": "竹子聲",
+            "location": [
+                22.78322,
+                120.28455
+            ],
+            "address": "鵬程路",
+            "image": "Wanhua_002.mp3"
+        },
+        {
+            "name": "公斗",
+            "location": [
+                22.79836,
+                120.29063
+            ],
+            "address": "公園東路",
+            "image": "Wanhua_002.mp3"
         }
     ]
 }
