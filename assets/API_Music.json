@@ -10,6 +10,15 @@
             "image": "Yuayin_001.mp3"
         },
         {
+            "name": "京都散策",
+            "location": [
+                35.01083, 
+                135.71162
+            ],
+            "address": "京都三條通",
+            "image": "Yuayin_001.mp3"
+        },
+        {
             "name": "禪音繚繞的錄音帶",
             "location": [
                 22.62105,
