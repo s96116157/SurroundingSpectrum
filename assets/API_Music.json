@@ -7,7 +7,7 @@
                 120.26368
             ],
             "address": "康樂路56號",
-            "image": "Yuayin_005.mp3"
+            "image": "Yanshuei_005.mp3"
         },
         {
             "name": "固執廚師的工作室",
@@ -16,7 +16,7 @@
                 120.25482
             ],
             "address": "鹽水區111 號",
-            "image": "Yuayin_006.mp3"
+            "image": "Yanshuei_006.mp3"
         },
          {
             "name": "中藥房",
@@ -25,7 +25,7 @@
                 120.26725
             ],
             "address": "三福路28號",
-            "image": "Yuayin_007.mp3"
+            "image": "Yanshuei_007.mp3"
         },
         {
             "name": "理髮店",
@@ -34,7 +34,16 @@
                 120.26800
             ],
             "address": "康樂路51號",
-            "image": "Yuayin_008.mp3"
+            "image": "Yanshuei_008.mp3"
+        },
+          {
+            "name": "蜂炮",
+            "location": [
+                23.32152, 
+                120.26396
+            ],
+            "address": "三福路63號",
+            "image": "Yanshuei_009.mp3"
         },
         {
             "name": "京都散策",
