@@ -28,6 +28,15 @@
             "image": "Yuayin_007.mp3"
         },
         {
+            "name": "理髮店",
+            "location": [
+                23.31935, 
+                120.26800
+            ],
+            "address": "康樂路51號",
+            "image": "Yuayin_008.mp3"
+        },
+        {
             "name": "京都散策",
             "location": [
                 35.01083, 
