@@ -18,6 +18,15 @@
             "address": "鹽水區111 號",
             "image": "Yuayin_006.mp3"
         },
+         {
+            "name": "中藥房",
+            "location": [
+                23.32087, 
+                120.26725
+            ],
+            "address": "三福路28號",
+            "image": "Yuayin_007.mp3"
+        },
         {
             "name": "京都散策",
             "location": [
