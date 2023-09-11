@@ -46,6 +46,285 @@
             "image": "Yanshuei_009.mp3"
         },
         {
+            "name": "鹽水武廟",
+            "location": [
+                23.32382, 
+                120.26577
+            ],
+            "address": "武廟路87號",
+            "image": "Yanshuei_010.mp3"
+        },
+        {
+            "name": "帥哥番茄",
+            "location": [
+                23.31939, 
+                120.26589
+            ],
+            "address": "西門路21號",
+            "image": "Yanshuei_011.mp3"
+        },
+        {
+            "name": "七歲姑娘廟",
+            "location": [
+                23.32374, 
+                120.27212
+            ],
+            "address": "蔦松路43號",
+            "image": "Yanshuei_012.mp3"
+        },
+        {
+            "name": "日本神社",
+            "location": [
+                23.32308, 
+                120.2714
+            ],
+            "address": "朝琴路137號",
+            "image": "Yanshuei_013.mp3"
+        },
+        {
+            "name": "牛墟之一",
+            "location": [
+                23.32285, 
+                120.27261 
+            ],
+            "address": "土庫路74號一帶",
+            "image": "Yanshuei_014.mp3"
+        },
+        {
+            "name": "牛墟之二",
+            "location": [
+                23.322625, 
+                120.271119 
+            ],
+            "address": "朝琴路137號",
+            "image": "Yanshuei_015.mp3"
+        },
+        {
+            "name": "玉米田",
+            "location": [
+                23.316628, 
+                120.272139 
+            ],
+            "address": "新營區信義路上",
+            "image": "Yanshuei_016.mp3"
+        },
+        {
+            "name": "熱愛土地的農人",
+            "location": [
+                23.321038, 
+                120.261866 
+            ],
+            "address": "治水路旁的水道",
+            "image": "Yanshuei_017.mp3"
+        },
+        {
+            "name": "鹽水意麵",
+            "location": [
+                23.319569, 
+                120.268269
+            ],
+            "address": "康樂路56號",
+            "image": "Yanshuei_018.mp3"
+        },
+        {
+            "name": "魚鱗巷",
+            "location": [
+                23.318228, 
+                120.267559
+            ],
+            "address": "中山路107號",
+            "image": "Yanshuei_019.mp3"
+        },
+        {
+            "name": "王爺巷",
+            "location": [
+                23.319336, 
+                120.267103
+            ],
+            "address": "中山路3巷",
+            "image": "Yanshuei_020.mp3"
+        },
+        {
+            "name": "修德拜亭廣場",
+            "location": [
+                23.320155, 
+                120.266451
+            ],
+            "address": "中山路22號",
+            "image": "Yanshuei_021.mp3"
+        },
+        {
+            "name": "一銀巷",
+            "location": [
+                23.320686, 
+                120.265873
+            ],
+            "address": "武廟路10巷",
+            "image": "Yanshuei_022.mp3"
+        },
+        {
+            "name": "蔡和泉故居",
+            "location": [
+                23.321379, 
+                120.268256
+            ],
+            "address": "朝琴路55巷9號",
+            "image": "Yanshuei_023.mp3"
+        },
+        {
+            "name": "長得像寺廟的教堂",
+            "location": [
+                23.31886, 
+                120.26603
+            ],
+            "address": "西門路19號",
+            "image": "Yanshuei_024.mp3"
+        },
+        {
+            "name": "泉利鐵店",
+            "location": [
+                23.31667, 
+                120.2676
+            ],
+            "address": "橋南街8號",
+            "image": "Yanshuei_025.mp3"
+        },
+        {
+            "name": "月津八景：興隆水月",
+            "location": [
+                23.31712, 
+                120.26725
+            ],
+            "address": "橋南街沿岸",
+            "image": "Yanshuei_026.mp3"
+        },
+        {
+            "name": "月津八景：聚波漁火",
+            "location": [
+                23.32079, 
+                120.264
+            ],
+            "address": "武廟路7之1號",
+            "image": "Yanshuei_027.mp3"
+        },
+        {
+            "name": "月津八景：蓮寺荷花",
+            "location": [
+                23.31903, 
+                120.26159
+            ],
+            "address": "治水路171巷12號附近",
+            "image": "Yanshuei_028.mp3"
+        },
+        {
+            "name": "月津八景：東門曉月",
+            "location": [
+                23.3235, 
+                120.27243
+            ],
+            "address": "朝琴路156號",
+            "image": "Yanshuei_029.mp3"
+        },
+        {
+            "name": "月津八景：釋寺甘泉",
+            "location": [
+                23.3174, 
+                120.2675
+            ],
+            "address": "康樂路5號",
+            "image": "Yanshuei_030.mp3"
+        },
+        {
+            "name": "月津八景：里仁松濤",
+            "location": [
+                23.32439, 
+                120.26583
+            ],
+            "address": "武廟路100號廟的後方",
+            "image": "Yanshuei_031.mp3"
+        },
+        {
+            "name": "月津八景：赤兔望月",
+            "location": [
+                23.31673, 
+                120.2735
+            ],
+            "address": "信義路旁",
+            "image": "Yanshuei_032.mp3"
+        },
+        {
+            "name": "月津八景：月池蛙鼓",
+            "location": [
+                23.31815, 
+                120.26868
+            ],
+            "address": "康樂路23號附近",
+            "image": "Yanshuei_033.mp3"
+        },
+        {
+            "name": "鹽水小火車",
+            "location": [
+                23.32301, 
+                120.26275
+            ],
+            "address": "治水路與文武街交叉口",
+            "image": "Yanshuei_034.mp3"
+        },
+        {
+            "name": "池畔青蛙",
+            "location": [
+                23.31709, 
+                120.26965
+            ],
+            "address": "月津港河畔靠近行昌路",
+            "image": "Yanshuei_035.mp3"
+        },
+        {
+            "name": "放映機",
+            "location": [
+                23.31883, 
+                120.26814
+            ],
+            "address": "康樂路21號",
+            "image": "Yanshuei_036.mp3"
+        },
+        {
+            "name": "牛隻散步",
+            "location": [
+                23.321, 
+                120.27122
+            ],
+            "address": "文武街69號",
+            "image": "Yanshuei_037.mp3"
+        },
+        {
+            "name": "戲院散場",
+            "location": [
+                23.3188, 
+                120.26885
+            ],
+            "address": "康樂路與中正路轉角巷子底",
+            "image": "Yanshuei_038.mp3"
+        },
+        {
+            "name": "點燃蜂炮",
+            "location": [
+                23.32426, 
+                120.26296
+            ],
+            "address": "金和路2號",
+            "image": "Yanshuei_039.mp3"
+        },
+        {
+            "name": "五十三將軍廟",
+            "location": [
+                23.32283, 
+                120.27326
+            ],
+            "address": "土庫路74之25號",
+            "image": "Yanshuei_040.mp3"
+        },
+        {
             "name": "京都散策",
             "location": [
                 35.01083, 
