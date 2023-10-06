@@ -1,6 +1,15 @@
 {
     "marker": [
         {
+            "name": "學游泳",
+            "location": [
+                25.00937,
+                121.53161
+            ],
+            "address": "水源快速道路與萬盛溪交叉口",
+            "image": "treasure_001.mp3"
+        },
+        {
             "name": "鴿笭",
             "location": [
                 23.3221, 
