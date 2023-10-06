@@ -10,6 +10,141 @@
             "image": "treasure_001.mp3"
         },
         {
+            "name": "萬盛溪",
+            "location": [
+                25.00991,
+                121.53330
+            ],
+            "address": "從籃球場過去靠近溪流的位置",
+            "image": "treasure_002.mp3"
+        },
+        {
+            "name": "在小觀音山上玩遊戲一",
+            "location": [
+                25.01057,
+                121.53162
+            ],
+            "address": "汀州路三段230巷59弄7號",
+            "image": "treasure_003.mp3"
+        },
+        {
+            "name": "在小觀音山上玩遊戲二",
+            "location": [
+                25.01053,
+                121.53163
+            ],
+            "address": "汀州路三段230巷59弄7號",
+            "image": "treasure_004.mp3"
+        },
+        {
+            "name": "山下的營舍",
+            "location": [
+                25.01022,
+                121.53291
+            ],
+            "address": "靠草地的停車場角落",
+            "image": "treasure_005.mp3"
+        },
+        {
+            "name": "秘密基地",
+            "location": [
+                25.010004,
+                121.531291
+            ],
+            "address": "大草皮下方靠近河濱步道的外側",
+            "image": "treasure_006.mp3"
+        },
+        {
+            "name": "老兵",
+            "location": [
+                25.010292,
+                121.532360
+            ],
+            "address": "汀州路三段230巷16弄",
+            "image": "treasure_007.mp3"
+        },
+        {
+            "name": "寶藏巖寺",
+            "location": [
+                25.01055,
+                121.53326
+            ],
+            "address": "汀州路三段230巷入口",
+            "image": "treasure_008.mp3"
+        },
+        {
+            "name": "信箱牆",
+            "location": [
+                25.010604,
+                121.532772
+            ],
+            "address": "汀州路三段230巷33號前方",
+            "image": "treasure_009.mp3"
+        },
+        {
+            "name": "家庭電影院",
+            "location": [
+                25.010280,
+                121.532629
+            ],
+            "address": "汀州路三段230巷16弄菜園前方",
+            "image": "treasure_010.mp3"
+        },
+        {
+            "name": "柑仔店",
+            "location": [
+                25.01034,
+                121.53253
+            ],
+            "address": "汀州路三段230巷16弄1號",
+            "image": "treasure_011.mp3"
+        },
+        {
+            "name": "自來水園區",
+            "location": [
+                25.01069,
+                121.53195
+            ],
+            "address": "汀州路三段230巷55號",
+            "image": "treasure_012.mp3"
+        },
+        {
+            "name": "閣樓青年會所",
+            "location": [
+                25.01036,
+                121.53178
+            ],
+            "address": "汀州路三段230巷61號",
+            "image": "treasure_013.mp3"
+        },
+        {
+            "name": "城市好風光",
+            "location": [
+                25.01050,
+                121.53487
+            ],
+            "address": "汀州路三段230巷13號",
+            "image": "treasure_014.mp3"
+        },
+        {
+            "name": "菜園",
+            "location": [
+                25.01023,
+                121.53268
+            ],
+            "address": "大斜坡的最底端柑仔店前面",
+            "image": "treasure_015.mp3"
+        },
+        {
+            "name": "村裡的店",
+            "location": [
+                25.01053,
+                121.53187
+            ],
+            "address": "汀州路三段230巷55號",
+            "image": "treasure_016.mp3"
+        },
+        {
             "name": "鴿笭",
             "location": [
                 23.3221, 
