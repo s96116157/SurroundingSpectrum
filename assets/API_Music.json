@@ -388,6 +388,78 @@
             "image": "nangang_042.mp3"
         },
         {
+            "name": "看飛機",
+            "location": [
+                25.055178, 
+                121.58856
+            ],
+            "address": "松河街386號附近",
+            "image": "nangang_043.mp3"
+        },
+        {
+            "name": "衛福部",
+            "location": [
+                25.050357, 
+                121.59532
+            ],
+            "address": "忠孝東路六段488號",
+            "image": "nangang_044.mp3"
+        },
+        {
+            "name": "輪胎",
+            "location": [
+                25.053589, 
+                121.58823
+            ],
+            "address": "南港路三段130巷附近",
+            "image": "nangang_045.mp3"
+        },
+        {
+            "name": "翠鳥",
+            "location": [
+                25.043045, 
+                121.59297
+            ],
+            "address": "東新街170巷",
+            "image": "nangang_046.mp3"
+        },
+        {
+            "name": "瓶蓋",
+            "location": [
+                25.05367, 
+                121.60475
+            ],
+            "address": "南港路二段13號",
+            "image": "nangang_047.mp3"
+        },
+        {
+            "name": "貓叫聲",
+            "location": [
+                25.04965, 
+                121.59165
+            ],
+            "address": "忠孝東路六段372號",
+            "image": "nangang_048.mp3"
+        },
+        {
+            "name": "河濱散步",
+            "location": [
+                25.05548,  
+                121.58912
+            ],
+            "address": "松河街406號附近",
+            "image": "nangang_049.mp3"
+        },
+        {
+            "name": "流行年代",
+            "location": [
+                25.05163, 
+                121.59763
+            ],
+            "address": "忠孝東路七段99號",
+            "image": "nangang_050.mp3"
+        },
+        {
             "name": "學游泳",
             "location": [
                 25.00937,
