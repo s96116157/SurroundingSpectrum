@@ -1,5 +1,392 @@
 {
     "marker": [
+      {
+            "name": "基隆河畔",
+            "location": [
+                25.05420, 
+                121.58638
+            ],
+            "address": "南港路三段190巷底",
+            "image": "nangang_001.mp3"
+        },
+        {
+            "name": "東南街",
+            "location": [
+                25.055001,
+                121.612346
+            ],
+            "address": "東南街10號附近",
+            "image": "nangang_002.mp3"
+        },
+        {
+            "name": "善南宮",
+            "location": [
+                25.04973, 
+                121.61555
+            ],
+            "address": "研究院路一段169號附近",
+            "image": "nangang_003.mp3"
+        },
+        {
+            "name": "墜機事件",
+            "location": [
+                25.06107,
+                121.61107 
+            ],
+            "address": "松河街699號附近",
+            "image": "nangang_004.mp3"
+        },
+        {
+            "name": "野餐",
+            "location": [
+                25.06365, 
+                121.61350
+            ],
+            "address": "重陽路547號附近",
+            "image": "nangang_005.mp3"
+        },
+        {
+            "name": "麵包店",
+            "location": [
+                25.04698, 
+                121.58844
+            ],
+            "address": "東新街75號",
+            "image": "nangang_006.mp3"
+        },
+        {
+            "name": "潮濕",
+            "location": [
+                25.05087, 
+                121.59085
+            ],
+            "address": "市民大道七段",
+            "image": "nangang_007.mp3"
+        },
+        {
+            "name": "包種茶",
+            "location": [
+                25.04612, 
+                121.58755
+            ],
+            "address": "東新街80巷9弄8號",
+            "image": "nangang_008.mp3"
+        },
+        {
+            "name": "美國學校",
+            "location": [
+                25.04679,
+                121.58790
+            ],
+            "address": "東新街67號",
+            "image": "nangang_009.mp3"
+        },
+        {
+            "name": "汽車街",
+            "location": [
+                25.05308, 
+                121.58933
+            ],
+            "address": "南港路三段53號",
+            "image": "nangang_010.mp3"
+        },
+        {
+            "name": "河岸",
+            "location": [
+                25.06219, 
+                121.61856
+            ],
+            "address": "港東街200號附近",
+            "image": "nangang_011.mp3"
+        },
+        {
+            "name": "餅店",
+            "location": [
+                25.05395, 
+                121.61516
+            ],
+            "address": "中南街56號",
+            "image": "nangang_012.mp3"
+        },
+        {
+            "name": "餅店",
+            "location": [
+                25.05395, 
+                121.61516
+            ],
+            "address": "中南街56號",
+            "image": "nangang_012.mp3"
+        },
+        {
+            "name": "空難",
+            "location": [
+                25.05952, 
+                121.60776
+            ],
+            "address": "松河街628號",
+            "image": "nangang_013.mp3"
+        },
+        {
+            "name": "燒餅店",
+            "location": [
+                25.053079,
+                121.61540
+            ],
+            "address": "忠孝東路七段602號",
+            "image": "nangang_014.mp3"
+        },
+        {
+            "name": "大腸麵線",
+            "location": [
+                25.05688, 
+                121.60316
+            ],
+            "address": "興南街60巷3號",
+            "image": "nangang_015.mp3"
+        },
+        {
+            "name": "貓咪",
+            "location": [
+                25.05531, 
+                121.60563
+            ],
+            "address": "興華路30巷1號",
+            "image": "nangang_016.mp3"
+        },
+        {
+            "name": "高架橋",
+            "location": [
+                25.06069,  
+                121.61467
+            ],
+            "address": "經貿二路235巷附近",
+            "image": "nangang_017.mp3"
+        },
+        {
+            "name": "兵工廠",
+            "location": [
+                25.04822, 
+                121.59461  
+            ],
+            "address": "昆陽街171巷附近",
+            "image": "nangang_018.mp3"
+        },
+        {
+            "name": "玉成戲院",
+            "location": [
+                25.050804, 
+                121.58214
+            ],
+            "address": "玉成街25巷2號",
+            "image": "nangang_019.mp3"
+        },
+        {
+            "name": "夕陽",
+            "location": [
+                25.05896, 
+                121.59552
+            ],
+            "address": "重陽路57巷附近",
+            "image": "nangang_020.mp3"
+        },
+        {
+            "name": "肥料工廠",
+            "location": [
+                25.05511, 
+                121.61797
+            ],
+            "address": "經貿一路1號附近",
+            "image": "nangang_021.mp3"
+        },
+        {
+            "name": "日本宿舍",
+            "location": [
+                25.04856, 
+                121.59350
+            ],
+            "address": "昆陽街164號",
+            "image": "nangang_022.mp3"
+        },
+         {
+            "name": "磚窯場",
+            "location": [
+                25.05227, 
+                121.58451
+            ],
+            "address": "南港路三段147號附近",
+            "image": "nangang_023.mp3"
+        },
+        {
+            "name": "港口",
+            "location": [
+                25.05536, 
+                121.61990
+            ],
+            "address": "南港路一段10巷附近",
+            "image": "nangang_024.mp3"
+        },
+        {
+            "name": "南港輪胎",
+            "location": [
+                25.05332, 
+                121.60073
+            ],
+            "address": "南港路二段45號附近",
+            "image": "nangang_025.mp3"
+        },
+        {
+            "name": "迷路",
+            "location": [
+                25.05170,
+                 121.60547
+            ],
+            "address": "忠孝東路七段一帶",
+            "image": "nangang_026.mp3"
+        },
+         {
+            "name": "牛肉麵",
+            "location": [
+                25.04996, 
+                121.59406
+            ],
+            "address": "昆陽街140巷附近",
+            "image": "nangang_027.mp3"
+        },
+        {
+            "name": "闕家古厝",
+            "location": [
+                25.05114,  
+                121.61548
+            ],
+            "address": "研究院路一段120號",
+            "image": "nangang_028.mp3"
+        },
+        {
+            "name": "林德勝商號",
+            "location": [
+                25.05514, 
+                121.61432
+            ],
+            "address": "南港路一段115號",
+            "image": "nangang_029.mp3"
+        },
+        {
+            "name": "八仙橋",
+            "location": [
+                25.05485, 
+                121.61973
+            ],
+            "address": "南港路一段2巷附近",
+            "image": "nangang_030.mp3"
+        },
+        {
+            "name": "無線電",
+            "location": [
+                25.05784, 
+                121.60178
+            ],
+            "address": "重陽路223號",
+            "image": "nangang_031.mp3"
+        },
+        {
+            "name": "汽車引擎",
+            "location": [
+                25.05727, 
+                121.60122
+            ],
+            "address": "重陽路168號",
+            "image": "nangang_032.mp3"
+        },
+        {
+            "name": "騎腳踏車",
+            "location": [
+                25.05844,
+                 121.59828
+            ],
+            "address": "重陽路187巷底附近",
+            "image": "nangang_033.mp3"
+        },
+        {
+            "name": "蝙蝠洞",
+            "location": [
+                25.03318, 
+                121.60980
+            ],
+            "address": "研究院路三段靠山腳附近",
+            "image": "nangang_034.mp3"
+        },
+        {
+            "name": "高鐵南港站到了",
+            "location": [
+                25.053320, 
+                121.60687
+            ],
+            "address": "南港路一段313號",
+            "image": "nangang_035.mp3"
+        },
+        {
+            "name": "中視新聞",
+            "location": [
+                25.05622, 
+                121.59868
+            ],
+            "address": "重陽路118號",
+            "image": "nangang_036.mp3"
+        },
+        {
+            "name": "煙火",
+            "location": [
+                25.032648, 
+                121.58945
+            ],
+            "address": "福德街251巷一帶",
+            "image": "nangang_037.mp3"
+        },
+        {
+            "name": "採礦",
+            "location": [
+                25.03684, 
+                121.59129
+            ],
+            "address": "成福路272號附近",
+            "image": "nangang_038.mp3"
+        },
+        {
+            "name": "平交道",
+            "location": [
+                25.05088, 
+                121.592285
+            ],
+            "address": "市民大道七段附近",
+            "image": "nangang_039.mp3"
+        },
+        {
+            "name": "演唱會",
+            "location": [
+                25.05207,  
+                121.59823
+            ],
+            "address": "市民大道八段99號附近",
+            "image": "nangang_040.mp3"
+        },
+        {
+            "name": "蟋蟀",
+            "location": [
+                25.050734, 
+                121.589096
+            ],
+            "address": "市民大道七段附近",
+            "image": "nangang_041.mp3"
+        },
+        {
+            "name": "青蛙",
+            "location": [
+                25.04319, 
+                121.59177
+            ],
+            "address": "東新街170之1號附近",
+            "image": "nangang_042.mp3"
+        },
         {
             "name": "學游泳",
             "location": [
