@@ -1225,6 +1225,15 @@
             "image": "Yuayin_001.mp3"
         },
         {
+            "name": "高雄地下街",
+            "location": [
+                22.625901,
+                120.287428
+            ],
+            "address": "河西路與中正路交叉口",
+            "image": "Yancheng_006.mp3"
+        },
+        {
             "name": "禪音繚繞的錄音帶",
             "location": [
                 22.62105,
